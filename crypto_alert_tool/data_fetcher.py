@@ -3,6 +3,9 @@ import pandas as pd
 import json
 from typing import Dict, Any
 import logging
+import os
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def fetch_data() -> pd.DataFrame:
     """
@@ -26,7 +29,8 @@ def fetch_data() -> pd.DataFrame:
     """
     
     try:
-        with open("crypto_alert_tool/config.json", "r") as f:
+        config_path = os.path.join(BASE_DIR, "crypto_alert_tool", "config.json")
+        with open(config_path, "r") as f:
             config: Dict[str, Any] = json.load(f)
     except FileNotFoundError:
         logging.error("Config file config.json not found")
