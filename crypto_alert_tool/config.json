@@ -1,26 +1,22 @@
 {
-    "api_key": "VpuoHrD2VrWWRwMz4QkLytuLFrX1CFcHjowWN4b5JrV0bHxMu3RTU8CbrR7A46HT",
-    "secret_key": "kRyhNchTRPToEbXj6cj8aDow5XcfGLkshqENiZWDcWRivH35SrbJcKDOTX1rTLao",
-    "symbol": "BTC/USDT",
-    "timeframe": "1m",
-    "sma_period": 20,
-    "ema_period": 50,
-    "rsi_period": 14,
-    "limit":1000,
-    "alert_thresholds": {
-      "rsi_overbought": 70,
-      "rsi_oversold": 30
-    },
-    "email": {
-      "sender": "brinezrivasmiguelangel@gmail.com",
-      "password": "tupassword",
-      "receiver": "arleybri18@gmailcom"
-    },
-    "whatsapp": {
-      "account_sid": "your_twilio_sid",
-      "auth_token": "your_twilio_auth_token",
-      "from_number": "whatsapp:+14155238886",
-      "to_number": "whatsapp:+1234567890"
-    }
+  "api_key": "YOUR_BINANCE_API_KEY",
+  "secret_key": "YOUR_BINANCE_SECRET_KEY",
+  "symbol": "BTC/USDT",
+  "timeframe": "1m",
+  "fast_ema_period": 12,
+  "slow_ema_period": 26,
+  "rsi_period": 14,
+  "limit": 100,
+  "email": {
+    "sender": "your_email@gmail.com",
+    "password": "your_application_password",
+    "receiver": "destination_email@example.com"
+  },
+  "whatsapp": {
+    "account_sid": "YOUR_TWILIO_ACCOUNT_SID",
+    "auth_token": "YOUR_TWILIO_AUTH_TOKEN",
+    "from_number": "whatsapp:+SOURCE_NUMBER",
+    "to_number": "whatsapp:+DESTINATION_NUMBER"
   }
+}
   
