@@ -10,3 +10,4 @@ wheels/
 .venv
 
 crypto_alert_tool/config.json
+crypto_alert_tool/config.json

@@ -13112,3 +13112,63 @@ ccxt.base.errors.RequestTimeout: binance GET https://api.binance.com/api/v3/time
 2025-01-08 19:35:06,922 - INFO - RSI actual: 46.94
 2025-01-08 19:35:06,922 - INFO - EMAs - Rápido: 94928.44, Lento: 94944.24
 2025-01-08 19:35:06,922 - INFO - Ejecución completada con éxito
+2025-01-08 19:36:02,030 - INFO - Directorio base: /home/pl3sh/projects/crypto_alert_tool
+2025-01-08 19:36:02,030 - INFO - Iniciando el programa de alertas crypto...
+2025-01-08 19:36:02,030 - INFO - Leyendo configuración desde: /home/pl3sh/projects/crypto_alert_tool/crypto_alert_tool/config.json
+2025-01-08 19:36:02,030 - INFO - Configuración cargada exitosamente
+2025-01-08 19:36:02,030 - INFO - Obteniendo datos del mercado...
+2025-01-08 19:36:05,852 - INFO - Datos obtenidos exitosamente. Registros: 100
+2025-01-08 19:36:05,852 - INFO - Calculando indicadores técnicos...
+2025-01-08 19:36:05,855 - INFO - Indicadores calculados exitosamente
+2025-01-08 19:36:05,856 - INFO - Analizando datos para BTC/USDT en 2025-01-09 00:36:00
+2025-01-08 19:36:05,856 - INFO - RSI actual: 45.42
+2025-01-08 19:36:05,856 - INFO - EMAs - Rápido: 94917.44, Lento: 94937.55
+2025-01-08 19:36:05,856 - INFO - Ejecución completada con éxito
+2025-01-08 19:37:01,993 - INFO - Directorio base: /home/pl3sh/projects/crypto_alert_tool
+2025-01-08 19:37:01,993 - INFO - Iniciando el programa de alertas crypto...
+2025-01-08 19:37:01,994 - INFO - Leyendo configuración desde: /home/pl3sh/projects/crypto_alert_tool/crypto_alert_tool/config.json
+2025-01-08 19:37:01,994 - INFO - Configuración cargada exitosamente
+2025-01-08 19:37:01,994 - INFO - Obteniendo datos del mercado...
+2025-01-08 19:37:06,031 - INFO - Datos obtenidos exitosamente. Registros: 100
+2025-01-08 19:37:06,031 - INFO - Calculando indicadores técnicos...
+2025-01-08 19:37:06,034 - INFO - Indicadores calculados exitosamente
+2025-01-08 19:37:06,034 - INFO - Analizando datos para BTC/USDT en 2025-01-09 00:37:00
+2025-01-08 19:37:06,034 - INFO - RSI actual: 42.63
+2025-01-08 19:37:06,034 - INFO - EMAs - Rápido: 94906.76, Lento: 94930.87
+2025-01-08 19:37:06,034 - INFO - Ejecución completada con éxito
+2025-01-08 19:38:02,182 - INFO - Directorio base: /home/pl3sh/projects/crypto_alert_tool
+2025-01-08 19:38:02,182 - INFO - Iniciando el programa de alertas crypto...
+2025-01-08 19:38:02,182 - INFO - Leyendo configuración desde: /home/pl3sh/projects/crypto_alert_tool/crypto_alert_tool/config.json
+2025-01-08 19:38:02,182 - INFO - Configuración cargada exitosamente
+2025-01-08 19:38:02,182 - INFO - Obteniendo datos del mercado...
+2025-01-08 19:38:06,076 - INFO - Datos obtenidos exitosamente. Registros: 100
+2025-01-08 19:38:06,076 - INFO - Calculando indicadores técnicos...
+2025-01-08 19:38:06,079 - INFO - Indicadores calculados exitosamente
+2025-01-08 19:38:06,079 - INFO - Analizando datos para BTC/USDT en 2025-01-09 00:38:00
+2025-01-08 19:38:06,080 - INFO - RSI actual: 40.20
+2025-01-08 19:38:06,080 - INFO - EMAs - Rápido: 94896.19, Lento: 94924.08
+2025-01-08 19:38:06,080 - INFO - Ejecución completada con éxito
+2025-01-08 19:39:02,198 - INFO - Directorio base: /home/pl3sh/projects/crypto_alert_tool
+2025-01-08 19:39:02,198 - INFO - Iniciando el programa de alertas crypto...
+2025-01-08 19:39:02,198 - INFO - Leyendo configuración desde: /home/pl3sh/projects/crypto_alert_tool/crypto_alert_tool/config.json
+2025-01-08 19:39:02,198 - INFO - Configuración cargada exitosamente
+2025-01-08 19:39:02,198 - INFO - Obteniendo datos del mercado...
+2025-01-08 19:39:06,670 - INFO - Datos obtenidos exitosamente. Registros: 100
+2025-01-08 19:39:06,670 - INFO - Calculando indicadores técnicos...
+2025-01-08 19:39:06,673 - INFO - Indicadores calculados exitosamente
+2025-01-08 19:39:06,674 - INFO - Analizando datos para BTC/USDT en 2025-01-09 00:39:00
+2025-01-08 19:39:06,674 - INFO - RSI actual: 45.02
+2025-01-08 19:39:06,674 - INFO - EMAs - Rápido: 94891.71, Lento: 94919.75
+2025-01-08 19:39:06,674 - INFO - Ejecución completada con éxito
+2025-01-08 19:40:02,821 - INFO - Directorio base: /home/pl3sh/projects/crypto_alert_tool
+2025-01-08 19:40:02,821 - INFO - Iniciando el programa de alertas crypto...
+2025-01-08 19:40:02,821 - INFO - Leyendo configuración desde: /home/pl3sh/projects/crypto_alert_tool/crypto_alert_tool/config.json
+2025-01-08 19:40:02,821 - INFO - Configuración cargada exitosamente
+2025-01-08 19:40:02,821 - INFO - Obteniendo datos del mercado...
+2025-01-08 19:40:06,793 - INFO - Datos obtenidos exitosamente. Registros: 100
+2025-01-08 19:40:06,793 - INFO - Calculando indicadores técnicos...
+2025-01-08 19:40:06,796 - INFO - Indicadores calculados exitosamente
+2025-01-08 19:40:06,797 - INFO - Analizando datos para BTC/USDT en 2025-01-09 00:40:00
+2025-01-08 19:40:06,797 - INFO - RSI actual: 50.02
+2025-01-08 19:40:06,797 - INFO - EMAs - Rápido: 94900.45, Lento: 94922.06
+2025-01-08 19:40:06,797 - INFO - Ejecución completada con éxito
