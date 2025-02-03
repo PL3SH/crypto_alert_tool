@@ -1,0 +1,22 @@
+{
+  "api_key": "YOUR_BINANCE_API_KEY",
+  "secret_key": "YOUR_BINANCE_SECRET_KEY",
+  "symbol": "BTC/USDT",
+  "timeframe": "1m",
+  "fast_ema_period": 12,
+  "slow_ema_period": 26,
+  "rsi_period": 14,
+  "limit": 100,
+  "email": {
+    "sender": "your_email@gmail.com",
+    "password": "your_application_password",
+    "receiver": "destination_email@example.com"
+  },
+  "whatsapp": {
+    "account_sid": "YOUR_TWILIO_ACCOUNT_SID",
+    "auth_token": "YOUR_TWILIO_AUTH_TOKEN",
+    "from_number": "whatsapp:+SOURCE_NUMBER",
+    "to_number": "whatsapp:+DESTINATION_NUMBER"
+  }
+}
+  

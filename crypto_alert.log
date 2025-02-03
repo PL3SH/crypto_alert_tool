@@ -1,0 +1,53 @@
+2025-01-08 19:47:02,454 - INFO - Directorio base: /home/pl3sh/projects/crypto_alert_tool
+2025-01-08 19:47:02,454 - INFO - Iniciando el programa de alertas crypto...
+2025-01-08 19:47:02,454 - INFO - Leyendo configuración desde: /home/pl3sh/projects/crypto_alert_tool/crypto_alert_tool/config.json
+2025-01-08 19:47:02,454 - INFO - Configuración cargada exitosamente
+2025-01-08 19:47:02,454 - INFO - Obteniendo datos del mercado...
+2025-01-08 19:47:07,222 - INFO - Datos obtenidos exitosamente. Registros: 100
+2025-01-08 19:47:07,222 - INFO - Calculando indicadores técnicos...
+2025-01-08 19:47:07,228 - INFO - Indicadores calculados exitosamente
+2025-01-08 19:47:07,229 - INFO - Analizando datos para BTC/USDT en 2025-01-09 00:47:00
+2025-01-08 19:47:07,229 - INFO - RSI actual: 64.40
+2025-01-08 19:47:07,229 - INFO - EMAs - Rápido: 94978.41, Lento: 94956.82
+2025-01-08 19:47:07,229 - INFO - Ejecución completada con éxito
+2025-01-08 19:48:02,343 - INFO - Directorio base: /home/pl3sh/projects/crypto_alert_tool
+2025-01-08 19:48:02,343 - INFO - Iniciando el programa de alertas crypto...
+2025-01-08 19:48:02,343 - INFO - Leyendo configuración desde: /home/pl3sh/projects/crypto_alert_tool/crypto_alert_tool/config.json
+2025-01-08 19:48:02,343 - INFO - Configuración cargada exitosamente
+2025-01-08 19:48:02,343 - INFO - Obteniendo datos del mercado...
+2025-01-08 19:48:06,972 - INFO - Datos obtenidos exitosamente. Registros: 100
+2025-01-08 19:48:06,972 - INFO - Calculando indicadores técnicos...
+2025-01-08 19:48:06,975 - INFO - Indicadores calculados exitosamente
+2025-01-08 19:48:06,976 - INFO - Analizando datos para BTC/USDT en 2025-01-09 00:48:00
+2025-01-08 19:48:06,976 - INFO - RSI actual: 61.90
+2025-01-08 19:48:06,976 - INFO - EMAs - Rápido: 94988.08, Lento: 94962.92
+2025-01-08 19:48:06,976 - INFO - Ejecución completada con éxito
+2025-01-08 19:49:02,133 - INFO - Directorio base: /home/pl3sh/projects/crypto_alert_tool
+2025-01-08 19:49:02,133 - INFO - Iniciando el programa de alertas crypto...
+2025-01-08 19:49:02,133 - INFO - Leyendo configuración desde: /home/pl3sh/projects/crypto_alert_tool/crypto_alert_tool/config.json
+2025-01-08 19:49:02,133 - INFO - Configuración cargada exitosamente
+2025-01-08 19:49:02,133 - INFO - Obteniendo datos del mercado...
+2025-01-08 19:49:06,156 - INFO - Datos obtenidos exitosamente. Registros: 100
+2025-01-08 19:49:06,156 - INFO - Calculando indicadores técnicos...
+2025-01-08 19:49:06,159 - INFO - Indicadores calculados exitosamente
+2025-01-08 19:49:06,160 - INFO - Analizando datos para BTC/USDT en 2025-01-09 00:49:00
+2025-01-08 19:49:06,160 - INFO - RSI actual: 53.98
+2025-01-08 19:49:06,160 - INFO - EMAs - Rápido: 94988.87, Lento: 94965.11
+2025-01-08 19:49:06,160 - INFO - Ejecución completada con éxito
+2025-01-08 19:50:02,264 - INFO - Directorio base: /home/pl3sh/projects/crypto_alert_tool
+2025-01-08 19:50:02,264 - INFO - Iniciando el programa de alertas crypto...
+2025-01-08 19:50:02,265 - INFO - Leyendo configuración desde: /home/pl3sh/projects/crypto_alert_tool/crypto_alert_tool/config.json
+2025-01-08 19:50:02,265 - INFO - Configuración cargada exitosamente
+2025-01-08 19:50:02,265 - INFO - Obteniendo datos del mercado...
+2025-01-08 19:50:06,991 - INFO - Datos obtenidos exitosamente. Registros: 100
+2025-01-08 19:50:06,991 - INFO - Calculando indicadores técnicos...
+2025-01-08 19:50:06,995 - INFO - Indicadores calculados exitosamente
+2025-01-08 19:50:06,996 - INFO - Analizando datos para BTC/USDT en 2025-01-09 00:50:00
+2025-01-08 19:50:06,996 - INFO - RSI actual: 56.30
+2025-01-08 19:50:06,996 - INFO - EMAs - Rápido: 94998.40, Lento: 94971.65
+2025-01-08 19:50:06,996 - INFO - Ejecución completada con éxito
+2025-01-08 19:51:02,077 - INFO - Directorio base: /home/pl3sh/projects/crypto_alert_tool
+2025-01-08 19:51:02,077 - INFO - Iniciando el programa de alertas crypto...
+2025-01-08 19:51:02,077 - INFO - Leyendo configuración desde: /home/pl3sh/projects/crypto_alert_tool/crypto_alert_tool/config.json
+2025-01-08 19:51:02,078 - INFO - Configuración cargada exitosamente
+2025-01-08 19:51:02,078 - INFO - Obteniendo datos del mercado...

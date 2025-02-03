@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+crypto_alert_tool/config.json

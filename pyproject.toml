@@ -5,3 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = []
+
+[tool.uv.dependencies]
+ccxt = "^3.0.61"
+pandas = "^2.0.3"
+ta = "^0.10.2"
+matplotlib = "^3.8.0"
+twilio = "^7.18.0"
